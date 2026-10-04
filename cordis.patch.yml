@@ -1,0 +1,5 @@
+# Registers the Host half. The Client half is picked up from this package's
+# `dsh.client` declaration, not from a row here.
+- insert:
+    - id: dsh-windhawk-status
+      name: dsh-windhawk-status
