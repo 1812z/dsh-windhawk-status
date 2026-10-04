@@ -1,6 +1,8 @@
 # dsh-windhawk-status
 
 把 DSH 会话状态显示在 Windows 任务栏通知区域左侧。
+<img width="1295" height="579" alt="2011437f134f98f24f04fcfb38c6e6b4" src="https://github.com/user-attachments/assets/1a728689-9182-4a66-8638-2c58324fd33a" />
+
 
 由两半组成，各自独立运行：
 
